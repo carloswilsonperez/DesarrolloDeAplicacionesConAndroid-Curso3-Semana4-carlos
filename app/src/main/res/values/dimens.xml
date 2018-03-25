@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="elevation_actionbar">4dp</dimen>
+    <dimen name="elevation_floatingActionButton">6dp</dimen>
+    <dimen name="width_barra_cardview">48dp</dimen>
+    <dimen name="height_barra_cardview">48dp</dimen>
+    <dimen name="width_hueso">38dp</dimen>
+    <dimen name="height_hueso">38dp</dimen>
+</resources>

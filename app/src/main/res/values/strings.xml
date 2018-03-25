@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="descipcion_perro">Perro buldog</string>
+    <string name="nombre">Nombre de mascota</string>
+    <string name="pnombre">nombre</string>
+    <string name="num_likes">4</string>
+    <string name="pnum_likes">numLikes</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Petagram</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mensaje">Escribe tu mensaje aquí</string>
+    <string name="titulo_formulario">Formulario de contacto</string>
+    <string name="title_activity_acercade">AcercadeActivity</string>
+    <string name="btn_enviar">Enviar comentario</string>
+    <string name="tv_acercade_estudios">Lic. en Matemáticas</string>
+    <string name="tv_acercade_nombre">Carlos Wilson</string>
+    <string name="tv_acercade_edad">Edad: 43 años</string>
+    <string name="tv_acercade_experiencia_laboral">Experiencia aboral: Un poco de todo. Últimamente, involucrado directamente en el apasionante mundo del desarrollo.</string>
+    <string name="aviso_enviando_mail">Tu comentario está siendo procesado.</string>
+    <string name="aviso_mail_enviado">Correo enviado con éxito a:  </string>
+    <string name="aviso_faltan_datos">Faltan datos </string>
+    <string name="mi_mascota">No tengo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_acercade">Acerca de mi</string>
+</resources>
