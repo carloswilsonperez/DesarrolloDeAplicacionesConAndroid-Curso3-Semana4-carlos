@@ -27,12 +27,12 @@ public class AcercadeActivity extends AppCompatActivity {
         btnEnviarMail.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String nombre = etNombre.getText().toString();
-                String email = etEmail.getText().toString();
-                String mensaje = etMensaje.getText().toString();
+            String nombre = etNombre.getText().toString();
+            String email = etEmail.getText().toString();
+            String mensaje = etMensaje.getText().toString();
 
-                SendMail sm = new SendMail(AcercadeActivity.this, email, nombre, mensaje);
-                sm.execute();
+            SendMail sm = new SendMail(getApplicationContext(), email, nombre, mensaje);
+            sm.execute();
             }
         });
 
