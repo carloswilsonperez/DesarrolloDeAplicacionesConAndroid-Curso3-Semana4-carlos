@@ -8,5 +8,5 @@ import android.provider.ContactsContract;
 
 public class Config {
     public static final String EMAIL = "email@gmail.com" ;
-    public static final String PASSWORD = "passwd" ;
+    public static final String PASSWORD = "password" ;
 }

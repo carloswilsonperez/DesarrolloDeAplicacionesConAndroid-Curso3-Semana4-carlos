@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context="com.example.administrador.curso3_tarea4.fragment.PerfilFragment">
 
-
     <ScrollView
         style="@android:style/Widget.Material.ScrollView"
         android:layout_width="match_parent"

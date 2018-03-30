@@ -6,4 +6,10 @@
     <dimen name="height_barra_cardview">48dp</dimen>
     <dimen name="width_hueso">38dp</dimen>
     <dimen name="height_hueso">38dp</dimen>
+
+    <dimen name="MARGIN_HORIZONTAL">8dp</dimen>
+    <dimen name="CARDVIEW_CORNER_RADIUS">5dp</dimen>
+    <dimen name="CARDVIEW_MARGIN_HORIZONTAL">8dp</dimen>
+    <dimen name="CARDVIEW_MARGIN_VERTICAL">8dp</dimen>
+    <dimen name="CARDVIEW_ELEVATION">4dp</dimen>
 </resources>

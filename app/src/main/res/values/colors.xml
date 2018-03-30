@@ -14,4 +14,6 @@
     <color name="fondo_perro06">#aeb8e1</color>
     <color name="fondo_perro07">#fc4671</color>
     <color name="fondo_perro08">#d0f591</color>
+    <color name="app_background">#f5deb3</color>
+    <color name="foto_background">#79E2E8</color>
 </resources>
